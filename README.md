@@ -84,7 +84,6 @@ public class Calculator{
             default:
             System.out.println("Wrong Choose! Try Again.");
             break;
-
         }
     }
 }
@@ -160,7 +159,7 @@ public class Calculator{
         3-Multiplication
         4-Division
         Your Choose :5
-        Wrong Choose! Try Again.
+        Wrong Choose! Try Again !
 
 ```
 <br />
