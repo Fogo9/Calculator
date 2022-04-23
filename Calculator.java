@@ -54,7 +54,6 @@ public class Calculator{
             default:
             System.out.println("Wrong Choose! Try Again.");
             break;
-
         }
     }
 }
