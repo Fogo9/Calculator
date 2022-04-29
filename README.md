@@ -1,14 +1,14 @@
 # **CALCULATOR**
 
-# Information
+## INFORMATION
 
 * **Making a calculator with the switch-case method.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **number1**, **number2** and **choose** is defined with int.
 
@@ -20,9 +20,7 @@
 
 * If there is a selection other than 4, it will be printed as an error.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -166,13 +164,13 @@ public class Calculator{
 ```
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/Calculator.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
